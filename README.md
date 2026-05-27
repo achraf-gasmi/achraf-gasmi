@@ -70,12 +70,5 @@ Qdrant · Ollama · FastAPI
 
 ---
 
-## Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=achraf-gasmi&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=achraf-gasmi&hide_border=true)
-
----
-
 [LinkedIn](https://www.linkedin.com/in/achraf-gasmi-592766134/) · [Kaggle](https://www.kaggle.com/gasminix) · achrafgasmi58@gmail.com  
 **Open to relocation — Netherlands · Germany · France · Belgium · Switzerland · Luxembourg**
